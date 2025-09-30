@@ -10,7 +10,7 @@ You will therefore need googletrans==3.1.0a0
 <b>pip install googletrans==3.1.0a0</b>
 
 <h2>How to use the GUI:</h2>
-Run binModderGui.py or download on of the <a href=https://github.com/KroeteTroete/binmodder/releases/>releases</a> and execute binModderGui.exe
+Run binModderGui.py or download on of the <a href=https://github.com/loddv/GOF2_Mod_Binmodder/releases/>releases</a> and execute binModderGui.exe
 
 Select the .bin file you want to modify by clicking "Choose .bin file".
 
@@ -25,7 +25,7 @@ When using gof2translate, any txt files imported as replacements txt will be ign
 If you want to use the gof2translate feature, check the gof2translate box and click on "Replace".
 
 <h3>Importing strings automatically</h3>
-binmodder can also use <a href="https://github.com/KroeteTroete/gofdetect/">gof2detect</a>, which extracts all the strings from the bin files automatically.
+binmodder can also use <a href="https://github.com/loddv/gofdetect/">gof2detect</a>, which extracts all the strings from the bin files automatically.
 To use this feature, select a bin file and click on "detect". Then choose the type of bin file you're modifying.
 
 <h3>GOF2 Google Translate Mod:</h3>
